@@ -42,7 +42,7 @@ public class Dart : MonoBehaviour
         transform.SetParent(parent);
         transform.localPosition = new Vector3(0, .5f, 0);
         myRigid.bodyType = RigidbodyType2D.Kinematic;
-        collider.enabled = false;    
+        collider.enabled = false;
     }
 
 }
