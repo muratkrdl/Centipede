@@ -1,8 +1,11 @@
 
 # Centipede
 
-The player controls the small insect-like creature called the Bug Blaster. It is moved around the bottom area of the screen with a trackball and fires small darts at a segmented centipede advancing from the top of the screen through a field of mushrooms. Each segment of the centipede becomes a mushroom when shot; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the screen, with the rear piece sprouting its own head. If the centipede head is destroyed, the segment behind it becomes the next head. 
+The player controls the small insect-like creature and this insect can shoots small darts
 
+The centipede starts at the top of the screen, traveling either left or right. When it touches a mushroom or reaches the edge of the screen, it descends one level and reverses direction. The player can destroy mushrooms by shooting them, but each takes four shots to destroy.
+
+Each segment of the centipede becomes a mushroom when shot; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the screen, with the rear piece sprouting its own head
 
 # Gameplay
 
